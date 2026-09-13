@@ -1,3 +1,4 @@
+
 # 🎬 Netflix Backend
 
 **By DigitalWitch | Cloud • DevOps • Security**
@@ -55,7 +56,7 @@ git config user.email "your-email@example.com"
 ```bash
 git remote add origin https://{username}:{personal-access-token}@gitlab.com/{your_username}/{your_repo_name}.git
 git branch -M main
-git push -u origin main
+
 ```
 
 ---
@@ -139,3 +140,6 @@ java -jar target/{your_artifact_name}.jar
 Good luck with your learning and development journey! 🚀
 
 **— Engr. Smart Cares**
+=======
+# netflix-backend
+>>>>>>> b8272c7b9ce3b49757780bd0e2da021cf3bbc40c
